@@ -1,0 +1,7 @@
+Flask==2.3.3
+pdfplumber==0.10.1
+pypdf==3.17.4
+reportlab==4.0.4
+gunicorn==21.2.0
+Werkzeug==2.3.7
+Pillow==10.0.1  # For better PDF handling
